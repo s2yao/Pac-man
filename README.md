@@ -1,4 +1,4 @@
-# Hardest game of all time
+# Pac-man game
  Side project 3
 
 # This is a pac-man game, but you have to walk through the entire maze
